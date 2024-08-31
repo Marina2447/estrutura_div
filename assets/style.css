@@ -1,0 +1,89 @@
+body {
+    margin: 20px;
+}
+
+.img-perfil {
+    line-height: 100px;
+    float: inline-start;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 2px solid black;
+    background-image: url(Beautiful-nature-landscape-mountains-trees-lake-sky-clouds-water-reflection_1920x1200.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+  
+    
+}
+.banner-texto {
+    text-align: center;
+    align-content: center;
+    font-size: 25px;
+}
+
+.Sobre-Mim {
+ align-content: center;
+ font-size: 24px;
+ 
+}
+
+.Sobre-Mim h2{
+    margin-bottom: 0px;
+}
+
+.Experiencias-Profissionais {
+
+    align-content: center;
+    font-size: 19px;
+    margin-bottom: 25px;
+
+}
+
+.Ano-ano {
+    margin-bottom: 9px;
+
+}
+
+.Engenheiro-Software {
+    margin-bottom:40px ;
+    width: 70%;
+    display: inline-block;
+    font-size: 22px;
+    align-content: center;
+    vertical-align: top;
+
+}
+.Engenheiro-Software h4{
+margin: 0;
+}
+
+.xp{
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+
+}
+
+.xp p{
+    margin: 0;
+    font-size: 20px;
+
+}
+
+.Engenheiro-Software p{
+    font-size: 19px;
+}
+
+.c{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.java{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+    
+    
+
